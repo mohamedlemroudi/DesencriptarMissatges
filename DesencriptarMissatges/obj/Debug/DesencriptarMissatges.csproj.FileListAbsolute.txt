@@ -1,0 +1,7 @@
+C:\Users\Moha\source\repos\DesencriptarMissatges\DesencriptarMissatges\bin\Debug\DesencriptarMissatges.exe.config
+C:\Users\Moha\source\repos\DesencriptarMissatges\DesencriptarMissatges\bin\Debug\DesencriptarMissatges.exe
+C:\Users\Moha\source\repos\DesencriptarMissatges\DesencriptarMissatges\bin\Debug\DesencriptarMissatges.pdb
+C:\Users\Moha\source\repos\DesencriptarMissatges\DesencriptarMissatges\obj\Debug\DesencriptarMissatges.csproj.AssemblyReference.cache
+C:\Users\Moha\source\repos\DesencriptarMissatges\DesencriptarMissatges\obj\Debug\DesencriptarMissatges.csproj.CoreCompileInputs.cache
+C:\Users\Moha\source\repos\DesencriptarMissatges\DesencriptarMissatges\obj\Debug\DesencriptarMissatges.exe
+C:\Users\Moha\source\repos\DesencriptarMissatges\DesencriptarMissatges\obj\Debug\DesencriptarMissatges.pdb
